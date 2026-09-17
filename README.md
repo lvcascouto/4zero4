@@ -4,7 +4,7 @@
 
 **Website oficial da banda 4zero4!**
 
-*Experiência digital focada na retenção e engajamento, com centralização dos principais canais e infos da banda*
+*Projeto da Lucas Code com foco em identidade visual, conteúdo e presença digital*
 
 [![Version](https://img.shields.io/badge/versão-1.0.0-e8e4de?style=flat-square&labelColor=FF69B4&color=1c1b2e)]()&nbsp;
 [![Finalidade](https://img.shields.io/badge/finalidade-freelance-e8e4de?style=flat-square&labelColor=3437e6&color=1c1b2e)]()&nbsp;
@@ -20,41 +20,47 @@
   <a href="#estrutura">Estrutura</a>
 </p>
 
-<h2 id="projeto">PROJETO</h2>
+## PROJETO
 
-Website oficial da banda 4zero4!, desenvolvido em formato One Page para centralizar informações, fortalecer a presença digital e conectar fãs à energia do Punk Rock. O projeto foi completamente refatorado antes do lançamento final, elevando o código a um padrão profissional com foco em performance, acessibilidade e SEO técnico.
+Website oficial da banda **4zero4!**, desenvolvido em formato One Page para centralizar informações, apresentar conteúdos da banda e fortalecer sua presença digital.
+
+O projeto foi completamente refatorado antes do lançamento final, com foco em uma experiência visual imersiva, organização do código, responsividade, acessibilidade, performance e SEO técnico.
+
+A implementação também contempla recursos como galeria de fotos, apresentação dos integrantes, discografia, agenda de shows e formulário de contato integrado.
 
 🌐 [Acesse o website](https://4zero4.vercel.app/)
 
-<h2 id="funcionalidades">FUNCIONALIDADES</h2>
+## FUNCIONALIDADES
 
-- **Experiência imersiva** — vídeo de fundo otimizado com `preload` e animações de entrada via `IntersectionObserver`
+- **Experiência imersiva** — vídeo de fundo otimizado e animações de entrada acionadas com `IntersectionObserver`
+- **Apresentação da banda** — seções personalizada para apresentação da banda com imagem flutuante otimizada
 - **Cards interativos** — apresentação dos integrantes, canais de contato, discografia e agenda de shows
-- **Galeria de fotos** — transição fade suave com navegação por clique e teclado
-- **Formulário de contato** — funcional e integrado com Formspree
-- **Acessibilidade** — navegação por teclado, `aria-labels` e estrutura semântica
-- **Layout responsivo** — interface adaptada para todos os dispositivos
+- **Galeria de fotos** — transição em fade com navegação por clique e teclado
+- **Formulário de contato** — formulário funcional integrado ao Formspree
+- **Acessibilidade** — navegação por teclado, atributos ARIA e estrutura semântica
+- **Layout responsivo** — adaptação da interface para diferentes dispositivos e tamanhos de tela
+- **Microinterações** — animações e estados visuais para enriquecer a experiência de navegação
 
-<h2 id="tecnologias">TECNOLOGIAS</h2>
+## TECNOLOGIAS
 
 | Tecnologia | Uso |
 |---|---|
 | HTML5 | Estrutura semântica, acessível e otimizada para SEO com JSON-LD |
-| CSS3 | Estilos com CSS Nesting, variáveis globais e animações 3D |
-| JavaScript ES6+ | Vanilla JS para todas as interatividades |
+| CSS3 | Estilos, variáveis globais, CSS Nesting e animações |
+| JavaScript ES6+ | Implementação das interações da interface |
 | Formspree | Integração do formulário de contato |
 | Git/Github | Versionamento de código |
-| Vercel | Deploy com otimização e minificação automáticas |
+| Vercel | Hospedagem e publicação do projeto |
 
-<h2 id="estrutura">ESTRUTURA</h2>
+## ESTRUTURA
 
 ```
 📁 4zero4
 ├── 📁 docs
 │   ├── 📂 assets
-│   │   ├── 📁 docs            → Arquivos (Press Kit)
+│   │   ├── 📁 docs            → Arquivo do Press Kit
 │   │   ├── 📁 fonts           → Fontes
-│   │   ├── 📁 img             → Imagens (separadas por seção)
+│   │   ├── 📁 img             → Imagens organizadas por seção
 │   │   └── 📁 videos          → Vídeos
 │   ├── 📂 src
 │   │   ├── 📂 css
@@ -79,11 +85,15 @@ Website oficial da banda 4zero4!, desenvolvido em formato One Page para centrali
 
 ---
 
-<h2>LICENÇA</h2>
+## LICENÇA
 
-Este projeto é público apenas para fins de portfólio do desenvolvedor. Todos os direitos sobre conteúdo visual e textual pertencem exclusivamente à banda 4zero4!. É proibida a cópia, reprodução ou uso do conteúdo sem autorização expressa.
+Este projeto é público exclusivamente para fins de portfólio do desenvolvedor.
 
-<h2>AUTOR</h2>
+O código, o design, os textos, as imagens, os vídeos e os demais recursos visuais relacionados à banda pertencem à **4zero4!**. A cópia, reprodução, distribuição ou utilização comercial de qualquer parte desses materiais depende de autorização expressa dos respectivos detentores dos direitos.
 
-Desenvolvido por [Lucas Couto](https://linkedin.com/in/lucas-coutoti).  
-Conheça meu trabalho em [Lucas Code](https://bio.site/lucascode).
+Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
+
+## AUTOR
+
+Desenvolvido por [Lucas Couto](https://linkedin.com/in/lucascouto-dev).  
+Conheça meu trabalho em [Lucas Code](https://lvcascode.com.br).
