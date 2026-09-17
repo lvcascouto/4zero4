@@ -1,5 +1,12 @@
 <div align="center">
 
+<img
+  src="docs/assets/img/logos/logo-pink.svg"
+  width="110"
+  height="110"
+  alt="Logo 4zero4!"
+/>
+
 # 4zero4!
 
 **Website oficial da banda 4zero4!**
