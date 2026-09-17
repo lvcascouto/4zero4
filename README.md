@@ -1,10 +1,10 @@
 <div align="center">
 
-# <img src="docs/assets/img/logos/logo-pink.svg" width="155" height="155" alt="Logo da banda 4zero4!" />
+<img src="docs/assets/img/logos/logo-pink.svg" width="160" height="160" alt="Logo da banda 4zero4!" />
 
-**Website oficial da banda 4zero4!**
+# Banda 4zero4!
 
-*Projeto da Lucas Code com foco em identidade visual, conteúdo e presença digital*
+***Website oficial desenvolvido pela Lucas Code***
 
 [![Version](https://img.shields.io/badge/versão-1.0.0-e8e4de?style=flat-square&labelColor=FF69B4&color=1c1b2e)]()&nbsp;
 [![Finalidade](https://img.shields.io/badge/finalidade-freelance-e8e4de?style=flat-square&labelColor=3437e6&color=1c1b2e)]()&nbsp;
