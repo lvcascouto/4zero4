@@ -2,9 +2,9 @@
 
 <img src="docs/assets/img/logos/logo-pink.svg" width="150" height="150" alt="Logo da banda 4zero4!" />
 
-# Banda 4zero4!
+# Website // 4zero4!
 
-***Website oficial desenvolvido pela Lucas Code***
+***Site oficial da banda desenvolvido com foco em presença digital pela Lucas Code***
 
 [![Status](https://img.shields.io/badge/status-em%20produção-e8e4de?style=flat-square&labelColor=10b981&color=1c1b2e)]()&nbsp;
 [![Finalidade](https://img.shields.io/badge/finalidade-freelance-e8e4de?style=flat-square&labelColor=3437e6&color=1c1b2e)]()&nbsp;
