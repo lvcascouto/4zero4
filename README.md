@@ -93,7 +93,10 @@ O código, o design, os textos, as imagens, os vídeos e os demais recursos visu
 
 Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
-## AUTOR
+## AUTOR    
 
-Desenvolvido por [Lucas Couto](https://linkedin.com/in/lucascouto-dev).  
-Conheça meu trabalho em [Lucas Code](https://lvcascode.com.br).
+**`</>` ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ**
+
+**ʟᴜᴄᴀꜱ ᴄᴏᴅᴇ // ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ꜱᴛᴜᴅɪᴏ**  
+[**ᴡᴇʙꜱɪᴛᴇ**](https://lvcascode.com.br) ▪ [**ɪɴꜱᴛᴀɢʀᴀᴍ**](https://instagram.com/lvcascode) ▪ [**ʟɪɴᴋᴇᴅɪɴ**](https://linkedin.com/in/lucascouto-dev)
+
