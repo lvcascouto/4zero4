@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="docs/assets/img/logos/logo-pink.svg" width="160" height="160" alt="Logo da banda 4zero4!" />
+<img src="docs/assets/img/logos/logo-pink.svg" width="150" height="150" alt="Logo da banda 4zero4!" />
 
 # Banda 4zero4!
 
 ***Website oficial desenvolvido pela Lucas Code***
 
-[![Version](https://img.shields.io/badge/versão-1.0.0-e8e4de?style=flat-square&labelColor=FF69B4&color=1c1b2e)]()&nbsp;
+[![Status](https://img.shields.io/badge/status-em%20produção-e8e4de?style=flat-square&labelColor=10b981&color=1c1b2e)]()&nbsp;
 [![Finalidade](https://img.shields.io/badge/finalidade-freelance-e8e4de?style=flat-square&labelColor=3437e6&color=1c1b2e)]()&nbsp;
+[![Produto](https://img.shields.io/badge/produto-website-e8e4de?style=flat-square&labelColor=FF69B4&color=1c1b2e)]()&nbsp;
 [![Licença](https://img.shields.io/badge/licença-personalizada-e8e4de?style=flat-square&labelColor=ef4444&color=1c1b2e)](./LICENSE)
 ![GitHub Repo stars](https://img.shields.io/github/stars/lucas16716/4zero4?style=social)
 
