@@ -209,8 +209,8 @@ header {
 
     .nav-links a {
       height: 50px;
-      padding-top: 17px;
-      font-size: 1rem;
+      padding-top: 15px;
+      font-size: 1.2rem;
       color: var(--color-primary);
       text-shadow:
         1px 1px 3px #000000,
@@ -324,7 +324,7 @@ header.scrolled {
   }
 
   .nav-links a {
-    font-size: 0.92rem;
+    font-size: 1.2rem;
     color: var(--color-text-white);
   }
 }
@@ -339,8 +339,8 @@ header.scrolled {
 section#home {
   position: relative;
   width: 100%;
-  min-height: 100dvh;
   min-height: 100vh;
+  min-height: 100dvh;
   overflow: hidden;
 
   .background-video {
