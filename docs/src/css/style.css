@@ -453,7 +453,7 @@ section#banda {
       display: flex;
       flex-direction: column;
       gap: 0.6rem;
-      max-width: 35ch;
+      max-width: 39ch;
       font-family: var(--font-body);
       font-size: var(--fs-md);
       color: var(--color-text-white);
